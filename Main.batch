@@ -1,6 +1,0 @@
-@echo off
-set /p num1=Enter the first number: 
-set /p num2=Enter the second number: 
-call MultiplyFunction.bat  %num1% %num2%
-echo result is %result%
-pause
